@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/sumitshinde2006/Leetcode/tree/master/0177-nth-highest-salary) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sumitshinde2006/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
