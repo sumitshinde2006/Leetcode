@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sumitshinde2006/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sumitshinde2006/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sumitshinde2006/Leetcode/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/sumitshinde2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumitshinde2006/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/sumitshinde2006/Leetcode/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sumitshinde2006/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sumitshinde2006/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sumitshinde2006/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sumitshinde2006/Leetcode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/sumitshinde2006/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sumitshinde2006/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/sumitshinde2006/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumitshinde2006/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sumitshinde2006/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
