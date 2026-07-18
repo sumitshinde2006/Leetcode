@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sumitshinde2006/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sumitshinde2006/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/sumitshinde2006/Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/sumitshinde2006/Leetcode/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sumitshinde2006/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sumitshinde2006/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sumitshinde2006/Leetcode/tree/master/0169-majority-element) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sumitshinde2006/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sumitshinde2006/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sumitshinde2006/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/sumitshinde2006/Leetcode/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/sumitshinde2006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumitshinde2006/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
