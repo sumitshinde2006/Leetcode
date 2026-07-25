@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sumitshinde2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sumitshinde2006/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitshinde2006/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/sumitshinde2006/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sumitshinde2006/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sumitshinde2006/Leetcode/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/sumitshinde2006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/sumitshinde2006/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumitshinde2006/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
