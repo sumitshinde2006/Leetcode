@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sumitshinde2006/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/sumitshinde2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumitshinde2006/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sumitshinde2006/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sumitshinde2006/Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitshinde2006/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sumitshinde2006/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sumitshinde2006/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sumitshinde2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sumitshinde2006/Leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sumitshinde2006/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitshinde2006/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sumitshinde2006/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sumitshinde2006/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/sumitshinde2006/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sumitshinde2006/Leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sumitshinde2006/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/sumitshinde2006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/sumitshinde2006/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumitshinde2006/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
