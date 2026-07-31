@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sumitshinde2006/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumitshinde2006/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sumitshinde2006/Leetcode/tree/master/0704-binary-search) |
+| [0819-most-common-word](https://github.com/sumitshinde2006/Leetcode/tree/master/0819-most-common-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/sumitshinde2006/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumitshinde2006/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sumitshinde2006/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sumitshinde2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sumitshinde2006/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/sumitshinde2006/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0819-most-common-word](https://github.com/sumitshinde2006/Leetcode/tree/master/0819-most-common-word) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sumitshinde2006/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sumitshinde2006/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sumitshinde2006/Leetcode/tree/master/0229-majority-element-ii) |
+| [0819-most-common-word](https://github.com/sumitshinde2006/Leetcode/tree/master/0819-most-common-word) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sumitshinde2006/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sumitshinde2006/Leetcode/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/sumitshinde2006/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/sumitshinde2006/Leetcode/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/sumitshinde2006/Leetcode/tree/master/0819-most-common-word) |
 | [1903-largest-odd-number-in-string](https://github.com/sumitshinde2006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sumitshinde2006/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sumitshinde2006/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
