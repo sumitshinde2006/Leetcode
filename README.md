@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sumitshinde2006/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sumitshinde2006/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sumitshinde2006/Leetcode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/sumitshinde2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sumitshinde2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sumitshinde2006/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumitshinde2006/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sumitshinde2006/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/sumitshinde2006/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sumitshinde2006/Leetcode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/sumitshinde2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumitshinde2006/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/sumitshinde2006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sumitshinde2006/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/sumitshinde2006/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sumitshinde2006/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sumitshinde2006/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/sumitshinde2006/Leetcode/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -186,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sumitshinde2006/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sumitshinde2006/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sumitshinde2006/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
