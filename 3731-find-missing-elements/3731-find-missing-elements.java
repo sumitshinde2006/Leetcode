@@ -1,8 +1,8 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
         if(nums==null || nums.length==0)return new ArrayList<>();
-       int min=nums[0];
-       int max=nums[0];
+       int min=nums[0], max=nums[0];
+      
        HashSet<Integer>List=new HashSet<>();
        for(int num:nums)
        {
