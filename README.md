@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sumitshinde2006/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/sumitshinde2006/Leetcode/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/sumitshinde2006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sumitshinde2006/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sumitshinde2006/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/sumitshinde2006/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sumitshinde2006/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/sumitshinde2006/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sumitshinde2006/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
