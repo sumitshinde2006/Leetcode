@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/sumitshinde2006/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitshinde2006/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sumitshinde2006/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sumitshinde2006/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -126,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sumitshinde2006/Leetcode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/sumitshinde2006/Leetcode/tree/master/0819-most-common-word) |
 | [1903-largest-odd-number-in-string](https://github.com/sumitshinde2006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sumitshinde2006/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sumitshinde2006/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sumitshinde2006/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/sumitshinde2006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sumitshinde2006/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String Matching
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sumitshinde2006/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sumitshinde2006/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/sumitshinde2006/Leetcode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sumitshinde2006/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
 | ------- |
