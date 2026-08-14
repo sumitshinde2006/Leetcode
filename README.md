@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sumitshinde2006/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0819-most-common-word](https://github.com/sumitshinde2006/Leetcode/tree/master/0819-most-common-word) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sumitshinde2006/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumitshinde2006/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sumitshinde2006/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/sumitshinde2006/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/sumitshinde2006/Leetcode/tree/master/0819-most-common-word) |
 | [1903-largest-odd-number-in-string](https://github.com/sumitshinde2006/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitshinde2006/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumitshinde2006/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sumitshinde2006/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sumitshinde2006/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sumitshinde2006/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sumitshinde2006/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sumitshinde2006/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
